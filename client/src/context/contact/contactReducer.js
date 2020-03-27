@@ -5,9 +5,7 @@ import {
   CLEAR_CURRENT,
   UPDATE_CONTACT,
   FILTER_CONTACTS,
-  CLEAR_FILTER,
-  SET_ALERT,
-  REMOVE_ALERT
+  CLEAR_FILTER
 } from '../types';
 
 export default (state, action) => {
